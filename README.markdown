@@ -133,7 +133,7 @@ $ npm run dev
 $ npm test
 $ npm run build
 $ npm run browserstack
-$ npm run serve-docs
+
 ```
 
 ##### Development environment
